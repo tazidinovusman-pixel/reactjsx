@@ -2,7 +2,7 @@
   "name": "my-vite-app",
   "version": "0.0.1",
   "private": true,
-   "base": "https://github.com/tazidinovusman-pixel/reactjsx.git",
+"homepage": "https://tazidinovusman-pixel.github.io/reactjsx/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
