@@ -199,6 +199,7 @@ function App() {
       <Route path="/handle" element={<Handle />} />
       <Route path="/pick" element={<Pick />} />
       <Route path="/atlas" element={<Atlas />} />
+      <Route path="/spot" element={<Spot />} />
     </Routes>
   );
 }
