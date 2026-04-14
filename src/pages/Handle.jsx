@@ -1,5 +1,5 @@
 import React, { useState } from 'react'; // Объединили импорт
-import './Handle.css';
+import "./Handle.css"; // Добавили импорт стилей
 
 const App = () => {
   const items = [
